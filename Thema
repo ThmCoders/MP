@@ -1,3 +1,34 @@
 Thema:
+Taschenrechner mit graphischer Benutzeroberfläche 
 
-1.Einfacher Taschenrechner mit Guioberfläche und einigen Zusatzfunktionen wie Rechnen mit Brüchen, Sin, Cos,...
+Team:
+Ludmilla Wilberger, Philipp Merchel, Shabira Taie
+
+Abschluss:
+Ziel Ende Vorlesungszeit
+
+Beschreibung und Aufgabenstellung:
+
+Es soll ein Taschenrechner mit Gui programmiert werden, welcher über die 4 alltäglichen Operationen hinaus auch 
+weitere trigonometrische Operationien als auch Bruchrechnen etc, beherrscht.
+
+Bezug zur Mathematik:
+
+Alle Funktionen, die hinter den Buttons versteckt sind, behinhalten Mathematik.
+
+Muss-Ziele(mind 3)
+-einfacher Taschenrechner mit +/-/* und : 
+-weitere Funktionen aus Trigonometrie 
+-grafische Benutzeroberfläche
+
+Kann-Ziele(mind 3)
+-Bruchrechnen
+-numerische Funktionen wie Auf/Abrunden etc
+-Memory Funktion
+-weitere Funktionen wie Modulo,Prozent, Exponent oder Fakultät
+-Klammern
+-Rad/Deg-Modus
+-Konstanten wie Pi, e,...
+
+Offene Fragen:
+
