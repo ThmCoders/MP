@@ -1,0 +1,3 @@
+Themenvorschläge:
+
+1.Taschenrechner mit Guioberfläche mit einigen Zusatzfunktionen wie Brüche, Wurzel, Sin ,Cos,..
