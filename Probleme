@@ -1,0 +1,2 @@
+Problem1: Checkboxes können beide angeklickt werden, es soll aber immer nur 1 von beiden aktiviert sein.
+Lösung1: Buttongroup?
