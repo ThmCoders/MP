@@ -1,0 +1,6 @@
+ Gui wird von main in extra Klasse ausgelagert (OO)                       23.10.17
+
+Der Gui-Teil der inneren Klasse gui1 von der Klasse main wurde zwecks OO in eine extra Klasse, neuer Name :Benutzeroberfläche, ausgelagert. 
+Die Methode starteBenutzeroberfläche() startet von der Klasse main über das Objekt oberfläche die Klasse Benutzeroberfläche.Dabei wurden die Modifier von JFrame und JTextfield entfernt. Obwohl es keine Fehler gab es das Problem, das das Fenster nicht angezeigt wurde. Es mussten lediglich zwei Sachen hinzugefügt werden.
+1. frame.setVisible(true) in Klasse Benutzeroberfläche
+2. extends JFrame in Klasse main
