@@ -1,0 +1,5 @@
+Der Taschenrechner hat Probleme mehrere verschiedene Operatoren hintereinander auszuführen.
+Er hängt sich auf, wenn ich zum Beispiel erst zwei Zahlen addiere und dann die Primzahl von einer anderen Zahl bestimme. 
+Da sehr viele einzelnen Funktion für Switch /case vorhanden sind( trigonometrischeFunktionen, ..., arithmetischeFunktionen,...) 
+lagerten wir heute viele cases aus Zahlensysteme aus und löschten Zahlensysteme() komplett. Daraufhin lief die Umwandlung von dez
+in hex sofort. Es gab nicht die üblichen Fehler (siehe Bild "Fehlermeldung" /Bild davor.
