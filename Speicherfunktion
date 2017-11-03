@@ -1,0 +1,4 @@
+Als nächstes soll eine Speicherfunktion in den Taschenrechner eingebaut werden. Idee ist wie beim gewöhnlichen Taschenrechner in
+der Schule einen Button für die Speicherung (MS=Memory Save), einen für das Ausgeben der gespeicherten Daten (MR=Memory Read)
+und einen Button zum Löschen der zuletzt gespeicherten Nachricht(MR=Memory Delete). Die Buttons auf der Oberfläche wurden bereits 
+angepasst. Ein extra Textfeld soll die gespeicherte Informationen anzeigen.
