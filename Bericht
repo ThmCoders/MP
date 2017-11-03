@@ -1,0 +1,4 @@
+Ziel wird es sein die trigonometrischen Funktionen nach Degree und Radiant zu trennen. Es soll eine Art Shift-Button eingefügt werden, der
+beispielsweise bei true (aktiviert) alle trigonometrischen Funktionen in Degree angibt. Wenn er nicht aktiviert ist, dann soll er alles in 
+Radiant berechnen. Hier bietet sich ein Toggle-Button an.
+Weiterhin gibt es bei der Funktion, die Dezimalzahlen in Oktalzahlen umwandelt Probleme.
