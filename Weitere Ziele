@@ -1,0 +1,5 @@
+Als nächstes Ziel nehmen wir uns vor weitere trigonometrische Funktionen wie arcsin, arccos, arctan zu implementieren.
+Ein Menü wäre auch ganz schick, um vielleicht zwischen einfachen und wissenschaftlichen Taschenrechner zu trennen. 
+Eine weitere Idee ist ein integrierter Umrechner zwischen verschiedenen Maßen wie Länge, Gewicht, Geschwindigkeit.
+Auch das Thema Statistik könnte interessant sein. Werte wie Mittelwerte oder Varianz könnte aus einer eingegebenen Datenmenge ermittelt
+werden.
