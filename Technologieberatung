@@ -1,0 +1,6 @@
+Heute besprachen wir mit Prof. Euler den weiteren Fortgang unseres Projektes. Unser Projekt befindet sich schon so gut wie in der Endphase.
+Folgende Verbesserungen wären noch möglich einzubauen:
+1. Im Bruchrechner als Ergebnisfeld 2 weitere Textfelder anstatt dem Panel.
+2. Die Hilfeoption könnte man als Html-File verlinken.
+3. Die Primzahlfunktion eventuell vereinfachen. Hier gibt es eine Implementierung der Uni Tübingen.
+4. Java Doc 
