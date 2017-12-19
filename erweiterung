@@ -1,0 +1,6 @@
+1. zähler +1/-1 hinzugefügt
+
+2. oberfläche etwas umstrukturiert
+3. neuer menüpunkt für graphen unter ansicht mit Combobox für Funktionen zum Zeichnen (quelle plotter euler pg2)
+4. log(x), e^x, 3 wurzel aus x , x^3 hinzugefügt
+5. problem: zu 3. zahlen haben zu viele nachkommestellen/ es gehen immer extrafesnter beim plotter aus 
